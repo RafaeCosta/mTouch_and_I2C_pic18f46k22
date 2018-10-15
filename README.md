@@ -13,14 +13,14 @@ MARKET OR APPLICATION IN PARTICULAR. See the
 GNU General Public License for more details.
 <http://www.gnu.org/licenses/>
 
-#Design for CVD capacitve sensor testing.
+# Design for CVD capacitve sensor testing.
 
-#Software used:
+** Software used: **
 + Microchip MPlab X IDE V4.20
 + Microchip MPLAB XC8 C Compiler (Free Mode) V1.45
 
 
-#hardware used:
+** hardware used: **
 + Resistor 10k pullup I2C
 + 16MHz Oscillator
 + 8 LEDs
