@@ -17,7 +17,7 @@ GNU General Public License for more details.
 
 **Software used:**
 + Microchip MPlab X IDE V4.20
-+ Microchip MPLAB XC8 C Compiler (Free Mode) V1.45
++ Microchip MPLAB XC8 C Compiler (Free Mode) V1.45 or V1.34
 
 
 **hardware used:**
